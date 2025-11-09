@@ -1,2 +1,7 @@
 # my-tailwindcss-playground
-A calm TailwindCSS playground for experimenting, exploring ideas, and taking gentle creative breaks from reality. A space to build slowly, softly, and without pressure.
+
+A small corner of the internet where I experiment with TailwindCSS.  
+Sometimes for learning, sometimes for boredom, sometimes for therapy.  
+A space to stretch ideas without needing them to *mean* anything. 🌿
+
+
