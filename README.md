@@ -8,4 +8,10 @@ A space to stretch ideas without needing them to *mean* anything. 🌿
 Building things can feel heavy when every project has to become:
 a portfolio piece, a client deliverable, a startup, a "serious thing".
 
+### What’s inside 📦
+Micro-experiments. Unfinished ideas. Small delights.  
+Each one either:
+- starts with curiosity 🐚  
+- or ends when it stops being interesting 🌙
+
 
